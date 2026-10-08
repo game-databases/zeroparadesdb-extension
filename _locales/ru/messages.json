@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Справочник Zero Parades"
+  },
+  "description": {
+    "message": "Навыки, мысли, предметы, персонажи и места ZERO PARADES: For Dead Spies по выделенному тексту или из адресной строки."
+  },
+  "menu": {
+    "message": "Найти «%s» в Zero Parades"
+  },
+  "open": {
+    "message": "Открыть страницу"
+  },
+  "search": {
+    "message": "Искать на сайте"
+  },
+  "none": {
+    "message": "Нет навыка, мысли, предмета, персонажа или места с таким названием."
+  },
+  "unreachable": {
+    "message": "zeroparadesdb.com не ответил. Попробуйте ещё раз."
+  }
+}

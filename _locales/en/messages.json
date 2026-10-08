@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Zero Parades lookup"
+  },
+  "description": {
+    "message": "Look up ZERO PARADES: For Dead Spies skills, thoughts, items, characters and places from selected text or the address bar."
+  },
+  "menu": {
+    "message": "Look up “%s” in Zero Parades"
+  },
+  "open": {
+    "message": "Open the page"
+  },
+  "search": {
+    "message": "Search the site"
+  },
+  "none": {
+    "message": "No skill, thought, item, character or place by this name."
+  },
+  "unreachable": {
+    "message": "zeroparadesdb.com did not answer. Try again."
+  }
+}

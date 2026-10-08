@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Zero Parades 查询"
+  },
+  "description": {
+    "message": "通过选中文本或地址栏查询 ZERO PARADES: For Dead Spies 的技能、思维、物品、角色和地点。"
+  },
+  "menu": {
+    "message": "在 Zero Parades 中查询“%s”"
+  },
+  "open": {
+    "message": "打开页面"
+  },
+  "search": {
+    "message": "在网站中搜索"
+  },
+  "none": {
+    "message": "没有以此命名的技能、思维、物品、角色或地点。"
+  },
+  "unreachable": {
+    "message": "zeroparadesdb.com 没有响应，请重试。"
+  }
+}

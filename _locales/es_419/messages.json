@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Consulta de Zero Parades"
+  },
+  "description": {
+    "message": "Consulta habilidades, pensamientos, objetos, personajes y lugares de ZERO PARADES: For Dead Spies desde el texto seleccionado o la barra de direcciones."
+  },
+  "menu": {
+    "message": "Buscar “%s” en Zero Parades"
+  },
+  "open": {
+    "message": "Abrir la página"
+  },
+  "search": {
+    "message": "Buscar en el sitio"
+  },
+  "none": {
+    "message": "Ninguna habilidad, pensamiento, objeto, personaje ni lugar tiene este nombre."
+  },
+  "unreachable": {
+    "message": "zeroparadesdb.com no respondió. Volvé a intentarlo."
+  }
+}

@@ -1,0 +1,14 @@
+:root { color-scheme: dark; --bg: #0e0d10; --ink: #ebe6dd; --muted: #a39d93; --line: #3a3640; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 16px; background: var(--bg); color: var(--ink); font: 14px/1.5 Georgia, "Times New Roman", serif; }
+main { display: flex; flex-direction: column; gap: 12px; }
+.card { border: 1px solid var(--line); padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; }
+.card header { display: flex; align-items: center; gap: 12px; }
+.card img { width: 48px; height: 48px; object-fit: contain; flex: none; }
+.card h1 { margin: 0; font-size: 18px; font-weight: 600; line-height: 1.25; }
+.facts { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px; }
+.facts li { border: 1px solid var(--line); padding: 2px 8px; font: 12px/1.6 ui-monospace, Menlo, monospace; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.card p { margin: 0; }
+.card a { color: var(--ink); font: 12px/1.6 ui-monospace, Menlo, monospace; text-transform: uppercase; letter-spacing: .1em; }
+.card a:hover { color: #fff; }
+.empty p { color: var(--muted); }

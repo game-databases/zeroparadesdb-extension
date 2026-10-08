@@ -1,0 +1,23 @@
+{
+  "name": {
+    "message": "Zero Parades Nachschlagen"
+  },
+  "description": {
+    "message": "Fähigkeiten, Gedanken, Gegenstände, Figuren und Orte aus ZERO PARADES: For Dead Spies über markierten Text oder die Adressleiste nachschlagen."
+  },
+  "menu": {
+    "message": "„%s“ in Zero Parades nachschlagen"
+  },
+  "open": {
+    "message": "Seite öffnen"
+  },
+  "search": {
+    "message": "Auf der Website suchen"
+  },
+  "none": {
+    "message": "Keine Fähigkeit, kein Gedanke, Gegenstand, keine Figur und kein Ort trägt diesen Namen."
+  },
+  "unreachable": {
+    "message": "zeroparadesdb.com hat nicht geantwortet. Bitte erneut versuchen."
+  }
+}
